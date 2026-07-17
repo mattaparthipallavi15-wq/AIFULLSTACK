@@ -1,0 +1,4 @@
+google genai
+gradio
+speech_recognition
+gTTs
